@@ -6368,6 +6368,11 @@ header.header.header-sticky.is-sticky.header-03
     font-size: 18px;
     line-height: 28px;
   }
+
+  .about-section-02 .description {
+    padding-right: 0;
+  }
+
   .section-title-horizontal {
     margin-bottom: 40px;
   }
