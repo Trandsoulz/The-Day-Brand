@@ -62,6 +62,21 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 /*****************************
   Typography
 *****************************/
+
+@font-face {
+  font-family: "Hagin";
+  src: url("../fonts/HaginCapsMedium-Medium.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Hagin";
+  src: url("../fonts/HaginCapsThin-Thin.otf");
+  font-weight: lighter;
+  font-style: normal;
+}
+
 body {
   font-family: "Nunito", sans-serif;
   font-weight: normal;
